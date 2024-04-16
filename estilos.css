@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+   background-image:url('img/descarga.jpg');
+   background-repeat: no-repeat;
+   background-color: black;
+   color: white;
+   
+}
+.contenedor{
+    margin: 0 auto;
+}
+
