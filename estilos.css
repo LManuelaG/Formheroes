@@ -4,13 +4,17 @@
     
 }
 body{
+
    background-image:url('img/descarga.jpg');
+   background-size: 70% auto ;
    background-repeat: no-repeat;
    background-color: black;
    color: white;
    
 }
 .contenedor{
-    margin: 0 auto;
+    width: 700px ;
 }
+
+
 
